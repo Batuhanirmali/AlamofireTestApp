@@ -4,8 +4,6 @@
 
     - TableView
     - tableViewCell
-    - KingFisher 
-    - Alamofire
     - UIImage
     - UIIlabel
 
